@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type = "Command">
+		<Assembly>C:\NewPlugin\RoomNumberingPlugin.dll</Assembly>
+		<AddInId>EE247E1A-31C6-435C-849A-7C469A18989E</AddInId>
+		<FullClassName>RoomNumberingPlugin.Command</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RoomNumberingPlugin</Text>
+	</AddIn>
+</RevitAddIns>
